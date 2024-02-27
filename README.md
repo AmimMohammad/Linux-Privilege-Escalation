@@ -55,9 +55,9 @@ Here is the exploit walkthroughs: Login as user with SSH. <br/>
 
 
 3. Exploiting Writable File Permissions (Writable /etc/shadow  /etc/passwd) <br/>
-<img src=".png" height="80%" width="80%" alt="set up"/>
-<img src=".png" height="80%" width="80%" alt="set up"/>
-<img src=".png" height="80%" width="80%" alt="set up"/>
+<img src="https://imgur.com/6movUhL.png" height="80%" width="80%" alt="set up"/>
+<img src="https://imgur.com/Lm3r4MQ.png" height="80%" width="80%" alt="set up"/>
+<img src="https://imgur.com/7kYWsXu.png" height="80%" width="80%" alt="set up"/>
 <br />
 <br />
 
