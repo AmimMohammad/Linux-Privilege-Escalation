@@ -1,5 +1,5 @@
 # Linux
-Linux Privilege Escalation
+
 
 <h1>Linux Privilege Escalation</h1>
 
