@@ -6,7 +6,7 @@ Linux Privilege Escalation
 <img src="https://imgur.com/EyI5SYi.png" height="80%" width="80%" alt="diagram"/>
 
 <h2>Objective<h2>
-<b>Linux Privilege Escalation skills on an intentionally misconfigured Debian VM with multiple ways to get root! SSH is available. Credentials: user:password321</b>
+<b>Linux Privilege Escalation skills on an intentionally misconfigured Debian VM with multiple ways to get root! SSH is available. </b>
 
 <h2>Description</h2>
 In the Simulation below, We will Perform  : <br>
